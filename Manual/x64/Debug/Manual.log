@@ -1,0 +1,6 @@
+﻿  HookBypass.cpp
+  injector.cpp
+  main.cpp
+  正在生成代码...
+C:\Users\Hezixian\source\repos\Manual\Manual\HookBypass.cpp(156,1): warning C4715: “HookBypass::ApplyHookBypass”: 不是所有的控件路径都返回值
+  Manual.vcxproj -> C:\Users\Hezixian\source\repos\Manual\x64\Debug\Manual.exe

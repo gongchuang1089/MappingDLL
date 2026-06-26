@@ -1,0 +1,9 @@
+﻿  HookBypass.cpp
+  injector.cpp
+  main.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Hezixian\source\repos\Manual\Manual\HookBypass.cpp(156): warning C4715: “HookBypass::ApplyHookBypass”: 不是所有的控件路径都返回值
+  All 190 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Manual.vcxproj -> C:\Users\Hezixian\source\repos\Manual\x64\Release\Manual.exe
